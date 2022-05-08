@@ -1,0 +1,429 @@
+[24-Apr-2022 16:15:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 79
+[24-Apr-2022 16:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_connect() in /home/youlear1/public_html/dashboard.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 70
+[25-Apr-2022 07:40:19 UTC] PHP Parse error:  syntax error, unexpected 'piechart' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 107
+[25-Apr-2022 07:46:44 UTC] PHP Parse error:  syntax error, unexpected 'piechart' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 107
+[25-Apr-2022 07:46:45 UTC] PHP Parse error:  syntax error, unexpected 'piechart' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 107
+[25-Apr-2022 07:46:45 UTC] PHP Parse error:  syntax error, unexpected 'piechart' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 107
+[25-Apr-2022 08:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/youlear1/public_html/dashboard.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 120
+[25-Apr-2022 08:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_numrows() in /home/youlear1/public_html/dashboard.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 120
+[25-Apr-2022 08:29:25 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/youlear1/public_html/dashboard.php on line 116
+[25-Apr-2022 10:08:26 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 163
+[25-Apr-2022 10:08:48 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 163
+[25-Apr-2022 10:08:49 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 163
+[25-Apr-2022 10:12:13 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ';' or ',' in /home/youlear1/public_html/dashboard.php on line 167
+[26-Apr-2022 09:50:18 UTC] PHP Parse error:  syntax error, unexpected 'SECURITY' (T_STRING) in /home/youlear1/public_html/da.php on line 8
+[26-Apr-2022 10:00:00 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:01:02 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:01:03 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:02:09 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:02:09 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:02:09 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:03:08 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:03:08 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:03:08 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:03:08 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[26-Apr-2022 10:03:09 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/youlear1/public_html/da.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/da.php on line 15
+[27-Apr-2022 07:06:34 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:07:31 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/youlear1/public_html/barchart.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/barchart.php on line 21
+[27-Apr-2022 07:21:32 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/youlear1/public_html/barchart.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/barchart.php on line 107
+[27-Apr-2022 07:46:17 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:47:00 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:47:01 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:47:02 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:47:02 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 07:47:18 UTC] PHP Parse error:  syntax error, unexpected '$vr' (T_VARIABLE) in /home/youlear1/public_html/barchart.php on line 19
+[27-Apr-2022 12:16:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/youlear1/public_html/login_handler.php on line 32
+[27-Apr-2022 12:16:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/login_handler.php:32) in /home/youlear1/public_html/login_handler.php on line 44
+[27-Apr-2022 17:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[27-Apr-2022 17:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre_r() in /home/youlear1/public_html/angajati.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 105
+[29-Apr-2022 08:06:11 UTC] PHP Warning:  Use of undefined constant num_rows - assumed 'num_rows' (this will throw an Error in a future version of PHP) in /home/youlear1/public_html/angajati.php on line 144
+[29-Apr-2022 08:06:11 UTC] PHP Warning:  Use of undefined constant num_rows - assumed 'num_rows' (this will throw an Error in a future version of PHP) in /home/youlear1/public_html/angajati.php on line 145
+[29-Apr-2022 12:03:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/youlear1/public_html/angajati.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 206
+[29-Apr-2022 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/youlear1/public_html/angajati.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 206
+[29-Apr-2022 12:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[29-Apr-2022 12:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[29-Apr-2022 12:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:10:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 175
+[29-Apr-2022 12:11:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[29-Apr-2022 15:42:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/youlear1/public_html/add_form.php on line 138
+[29-Apr-2022 15:42:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/youlear1/public_html/add_form.php on line 122
+[29-Apr-2022 15:44:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function verif() in /home/youlear1/public_html/add_form.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/add_form.php on line 129
+[29-Apr-2022 16:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[29-Apr-2022 16:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 03:30:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 03:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 04:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 13:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[02-May-2022 15:33:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/angajati.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/angajati.php on line 207
+[03-May-2022 19:15:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youlear1/public_html/get_method.php on line 9
+[03-May-2022 19:17:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youlear1/public_html/get_method.php on line 9
+[03-May-2022 19:17:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youlear1/public_html/get_method.php on line 9
+[03-May-2022 19:17:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youlear1/public_html/get_method.php on line 9
+[04-May-2022 11:35:57 UTC] PHP Warning:  include(connections.php): failed to open stream: No such file or directory in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:35:57 UTC] PHP Warning:  include(connections.php): failed to open stream: No such file or directory in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:35:57 UTC] PHP Warning:  include(): Failed opening 'connections.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/functions.php:8
+Stack trace:
+#0 /home/youlear1/public_html/index.php(6): check_login(NULL)
+#1 {main}
+  thrown in /home/youlear1/public_html/functions.php on line 8
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:36:25 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:36:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLogged() in /home/youlear1/public_html/dashboard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 5
+[04-May-2022 11:36:26 UTC] PHP Warning:  include(connections.php): failed to open stream: No such file or directory in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:36:26 UTC] PHP Warning:  include(connections.php): failed to open stream: No such file or directory in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:36:26 UTC] PHP Warning:  include(): Failed opening 'connections.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/index.php on line 3
+[04-May-2022 11:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/youlear1/public_html/functions.php:8
+Stack trace:
+#0 /home/youlear1/public_html/index.php(6): check_login(NULL)
+#1 {main}
+  thrown in /home/youlear1/public_html/functions.php on line 8
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:36 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:39 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:37:41 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 11:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLogged() in /home/youlear1/public_html/dashboard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 5
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:42 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:37:43 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 4
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:38:03 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/login.php on line 6
+[04-May-2022 11:57:37 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/youlear1/public_html/login.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/login.php on line 39
+[04-May-2022 12:00:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:3) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:11) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:14) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:14) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:14) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:14) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:02:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/index.php:14) in /home/youlear1/public_html/index.php on line 23
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 3
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 12:36:50 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/youlear1/public_html/dashboard.php on line 4
+[04-May-2022 12:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLogged() in /home/youlear1/public_html/dashboard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/dashboard.php on line 5
+[04-May-2022 13:19:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 290
+[04-May-2022 13:21:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 290
+[04-May-2022 13:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 290
+[04-May-2022 13:21:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 290
+[04-May-2022 13:21:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 290
+[04-May-2022 13:22:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/youlear1/public_html/angajati.php on line 292
+[04-May-2022 13:22:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 291
+[04-May-2022 13:23:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 291
+[04-May-2022 13:24:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 291
+[04-May-2022 13:24:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 291
+[04-May-2022 13:24:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:24:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:26:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 13:29:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 15:15:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 251
+[04-May-2022 15:16:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:68) in /home/youlear1/public_html/angajati.php on line 71
+[04-May-2022 15:16:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:68) in /home/youlear1/public_html/angajati.php on line 71
+[04-May-2022 15:26:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/angajati.php:23) in /home/youlear1/public_html/angajati.php on line 289
+[04-May-2022 17:34:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/add_form.php on line 222
+[04-May-2022 17:34:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/add_form.php on line 222
+[04-May-2022 17:34:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/add_form.php on line 222
+[04-May-2022 17:34:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/add_form.php on line 222
+[05-May-2022 05:55:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/pinfinal.php on line 223
+[05-May-2022 05:59:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/pinfinal.php on line 223
+[05-May-2022 07:06:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/youlear1/public_html/pinfinal.php on line 223
+[05-May-2022 07:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/youlear1/public_html/pinfinal.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 40
+[05-May-2022 14:37:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/youlear1/public_html/pinfinal.php on line 250
+[05-May-2022 15:39:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 137
+[05-May-2022 15:39:40 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 137
+[05-May-2022 15:39:43 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 137
+[05-May-2022 15:40:15 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 137
+[05-May-2022 15:40:36 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 138
+[05-May-2022 15:43:32 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:236
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 236
+[05-May-2022 15:43:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:236
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 236
+[05-May-2022 15:43:41 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:236
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 236
+[05-May-2022 15:43:46 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:236
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 236
+[05-May-2022 15:44:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/youlear1/public_html/pinfinal.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/pinfinal.php on line 137
+[05-May-2022 15:49:43 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/youlear1/public_html/pinfinal.php on line 242
+[05-May-2022 16:06:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:06:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:07:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:07:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:07:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:07:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:07:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:08:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:08:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:08:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:11:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 246
+[05-May-2022 16:15:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/youlear1/public_html/pinfinal.php on line 232
+[05-May-2022 16:16:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/youlear1/public_html/pinfinal.php on line 233
+[05-May-2022 16:16:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/youlear1/public_html/pinfinal.php on line 233
+[05-May-2022 16:19:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:19:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 16:19:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youlear1/public_html/pinfinal.php:67) in /home/youlear1/public_html/pinfinal.php on line 243
+[05-May-2022 17:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/youlear1/public_html/get_method.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/get_method.php on line 35
+[05-May-2022 17:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/youlear1/public_html/get_method.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/get_method.php on line 42
+[05-May-2022 17:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/youlear1/public_html/get_method.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/youlear1/public_html/get_method.php on line 42
+[05-May-2022 18:49:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youlear1/public_html/get_method.php on line 22
